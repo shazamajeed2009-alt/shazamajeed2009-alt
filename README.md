@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Shaza Abdul Majeed
 
-<!--
-**shazamajeed2009-alt/shazamajeed2009-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Grade 12 student interested in Computer Science, programming, and emerging technologies.
 
-Here are some ideas to get you started:
+About Me
+Learning Python and exploring programming concepts.
+Exploring data handling using Pandas.
+Interested in Artificial Intelligence and Computer Science.
+Learning through academic and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I'm Exploring
+Python
+Pandas
+CSV File Handling
+
+Featured Project
+Railway Management System – A Python-based project developed as part of my Grade 12 Informatics Practices curriculum.
